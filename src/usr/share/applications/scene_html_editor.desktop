@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=HTML Editor - Scene
+GenericName=MP console editor
+Comment=HTML Editor
+Exec=defaultbrowser --app=file:///usr/share/doc/scene/scene_html_editor.html
+Icon=applications-utilities.svg
+Categories=TextEditor
+Type=Application
+Encoding=UTF-8
+Terminal=false
